@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**barakle2401/barakle2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Barak and I'm a Web Developer and JS freak, currently in love with VUE.js :fire: 
+
+- 🔭 I’m currently working at Allot (via herolo) as frontend developer 
+- 🌱 I’m currently learning vite, vue composition api and jest
+- 👯 I’m looking to collaborate on any cool project in the web domains 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/barak-levy-6b45a3150/)
+- ⚡ Fun fact: I love plants :palm_tree:
+
+
+<div style="display:flex;">
+<div style="display:flex; flex-direction:row;">
+  <a href="https://github.com/MartinHeinz/MartinHeinz" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=barakle2401&show_icons=true&line_height=20&count_private=true&theme=dark" alt="Barak Levy's GitHub Stats" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barakle2401&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact&line_height=50" />
+</a>
+</div>
+  
+  ### My Stack:
