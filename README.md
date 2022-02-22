@@ -24,7 +24,7 @@ I'm Barak and I'm a Web Developer and JS freak, currently in love with :collisio
   
   ### My Stack:
 <div style="display:flex;">
-<div style="display:flex; flex-direction:row;">
+<div>
 
   <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
