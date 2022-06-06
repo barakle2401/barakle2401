@@ -2,7 +2,7 @@
 
 
 
-I'm Barak and I'm a Web Developer and JS freak, currently in love with :collision: VUE.js :collision: 
+I'm Barak and I'm a Web Developer and JS freak, currently in love with :collision: VUE.js :collision: React.js :collision: 
 
 - 🔭 I’m currently working at Allot (via herolo) as a frontend developer 
 - 🌱 I’m currently learning vite, vue composition api and jest
