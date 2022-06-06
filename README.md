@@ -32,5 +32,6 @@ I'm Barak and I'm a Web Developer and JS freak, currently in love with :collisio
 </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs--v1.png"/>
   </div>
   </div>
