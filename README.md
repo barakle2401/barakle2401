@@ -10,7 +10,7 @@ I'm Barak and I'm a Web Developer and JS freak, currently in love with :collisio
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/barak-levy-6b45a3150/)
 - ⚡ Fun fact: I love plants :palm_tree:
 
-
+### &#x1f4c8; GitHub Stats
 <div style="display:flex;">
 <div style="display:flex; flex-direction:row;">
   <a href="https://github.com/MartinHeinz/MartinHeinz" >
@@ -22,7 +22,7 @@ I'm Barak and I'm a Web Developer and JS freak, currently in love with :collisio
 </div>
   </div>
   
-  ### My Stack:
+  ### My Stack
 <div style="display:flex;">
 <div>
 
