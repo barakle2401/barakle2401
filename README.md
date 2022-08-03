@@ -4,7 +4,7 @@
 
 I'm Barak and I'm a Web Developer and JS freak, currently in love with :collision: VUE.js :collision: React.js :collision: Node.js :collision: 
 
-- 🔭 I’m currently working at Allot (via herolo) as a Frontend Developer 
+- 🔭 I’m currently working at Allot (via abra) as a Frontend Developer 
 - 🌱 I’m currently learning vite, vue composition api and jest
 - 👯 I’m looking to collaborate on any cool project in the web domains 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/barak-levy-6b45a3150/)
